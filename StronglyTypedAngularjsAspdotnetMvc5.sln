@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StronglyTypedAngularjsAspdotnetMvc5.Web", "StronglyTypedAngularjsAspdotnetMvc5.Web\StronglyTypedAngularjsAspdotnetMvc5.Web.csproj", "{B26EDB49-3D8A-4F1F-BC8E-9C865679E405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StronglyTypedAngularjsAspdotnetMvc5.Web.Tests", "StronglyTypedAngularjsAspdotnetMvc5.Web.Tests\StronglyTypedAngularjsAspdotnetMvc5.Web.Tests.csproj", "{B0157A9D-C33B-4296-ABF7-2AE3E73B99CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B26EDB49-3D8A-4F1F-BC8E-9C865679E405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26EDB49-3D8A-4F1F-BC8E-9C865679E405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26EDB49-3D8A-4F1F-BC8E-9C865679E405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26EDB49-3D8A-4F1F-BC8E-9C865679E405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0157A9D-C33B-4296-ABF7-2AE3E73B99CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0157A9D-C33B-4296-ABF7-2AE3E73B99CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0157A9D-C33B-4296-ABF7-2AE3E73B99CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0157A9D-C33B-4296-ABF7-2AE3E73B99CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
